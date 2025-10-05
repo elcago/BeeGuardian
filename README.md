@@ -72,13 +72,11 @@ Navigate to http://localhost:8000
 
 The backend provides several REST API endpoints:
 
-```
 - GET / - Server status page
 - GET /api/health - Health check
 - POST /api/analyze - Upload and analyze files
 - POST /api/stream - Analyze live stream frames
 - GET /api/model/info - Model information
-```
 
 ## Model Details
 

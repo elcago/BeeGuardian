@@ -8,12 +8,15 @@ BeeGuardian is an integrated beekeeping management platform that combines AI-pow
 The system analyzes visual and audio signals using a multimodal neural network  to detect hive health issues with 92.6% accuracy on 1,639+ samples, then provides actionable guidance including local suppliers, treatment timing based on weather conditions, and educational resources.
 
 ## Project Structure
+
+(backtick)(backtick)(backtick)
 BeeGuardian/
 ├── index.html              # Frontend web application
 ├── model_server.py         # Backend Flask API server
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 └── bee_health_final_model.h5  # Trained ML model (not included - see below)
+"""
 
 ## Features
 

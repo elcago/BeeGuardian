@@ -16,7 +16,7 @@ BeeGuardian/
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 └── bee_health_final_model.h5  # Trained ML model (not included - see below)
-"""
+```
 
 ## Features
 

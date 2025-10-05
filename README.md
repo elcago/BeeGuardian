@@ -9,7 +9,7 @@ The system analyzes visual and audio signals using a multimodal neural network  
 
 ## Project Structure
 
-(backtick)(backtick)(backtick)
+```
 BeeGuardian/
 ├── index.html              # Frontend web application
 ├── model_server.py         # Backend Flask API server

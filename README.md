@@ -24,3 +24,12 @@ BeeGuardian uses Cross-Attention Multimodal Neural Networks (CAMNN) to detect be
 1. Clone this repository:
 ```bash
 git clone https://github.com/elcago/BeeGuardian.git
+
+
+**### Technologies Used**
+
+HTML5, CSS3, JavaScript
+Chart.js for data visualization
+Google Maps Places API
+OpenWeatherMap API
+Responsive design with mobile support

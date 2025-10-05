@@ -117,7 +117,7 @@ The backend provides several REST API endpoints:
 ## Project Background
 Created by Andrew Liang for the Congressional App Challenge 2024. This application addresses the critical issue of declining bee populations (40% annual colony losses) by providing beekeepers with AI-powered diagnostic tools, practical local resources, and evidence-based educational content.
 
-## For Judges
+## For Users
 
 ### Quick Demo
 1. Visit the live site to see working features: https://elcago.github.io/BeeGuardian/

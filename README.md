@@ -3,7 +3,7 @@
 Live Demo: [https://elcago.github.io/BeeGuardian/](https://elcago.github.io/BeeGuardian/)
 
 ## Overview
-BeeGuardian uses Cross-Attention Multimodal Neural Networks (CAMNN) to detect bee hive health issues with 85.8% accuracy, helping beekeepers identify problems early.
+BeeGuardian uses a multimodel neural network to detect bee hive health issues with 92.8% accuracy, helping beekeepers identify problems early.
 
 ## Features
 - AI-powered hive health analysis (4 health categories)

@@ -3,7 +3,7 @@
 Live Demo: [https://elcago.github.io/BeeGuardian/](https://elcago.github.io/BeeGuardian/)
 
 ## Overview
-BeeGuardian uses a multimodel neural network to detect bee hive health issues with 92.8% accuracy, helping beekeepers identify problems early.
+BeeGuardian is an integrated beekeeping management platform that combines AI-powered health analysis with localized resource matching, weather-based recommendations, and comprehensive education, making advanced beekeeping technology accessible to beekeepers of all experience levels.
 
 ## Features
 - AI-powered hive health analysis (4 health categories)

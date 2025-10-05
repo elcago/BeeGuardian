@@ -115,7 +115,7 @@ The backend provides several REST API endpoints:
 - Local resources: Google Maps Places API
 
 ## Project Background
-Created by Andrew Liang for the Congressional App Challenge 2024. This application addresses the critical issue of declining bee populations (40% annual colony losses) by providing beekeepers with AI-powered diagnostic tools, practical local resources, and evidence-based educational content.
+ This application addresses the critical issue of declining bee populations (40% annual colony losses) by providing beekeepers with AI-powered diagnostic tools, practical local resources, and evidence-based educational content.
 
 ## For Users
 

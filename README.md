@@ -1,4 +1,4 @@
-# BeeGuardian - AI-Powered Bee Health Monitoring System
+# BeeGuard - AI-Powered Bee Health Monitoring System
 
 Live Demo: https://elcago.github.io/BeeGuardian/
 
